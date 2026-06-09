@@ -1,42 +1,58 @@
 {
-  "Jun 07": {
-    "gameNumber": 1,
+  "game_1": {
+    "gameId": 1,
     "levels": [
-      { "name": "LEVEL 1: EASY", "left": "SUN", "right": "POT", "answer": "FLOWER", "length": 6, "bank": ["FLOWER", "SHINE", "SET", "GLASS"] },
-      { "name": "LEVEL 2: MEDIUM", "left": "MOON", "right": "WARE", "answer": "STONE", "length": 5, "bank": ["STONE", "BEAM", "TOUCH", "GRAVE"] },
-      { "name": "LEVEL 3: HARD", "left": "SNAP", "right": "GLASS", "answer": "SHOT", "length": 4, "bank": ["SHOT", "DRAGON", "BACK", "LINE"] }
+      { "name": "LEVEL 1: EASY", "left": "SUN", "answer": "FLOWER", "right": "POT", "length": 6, "bank": ["FLOWER", "SHINE", "SET", "RISE"] },
+      { "name": "LEVEL 2: MEDIUM", "left": "MOON", "answer": "STONE", "right": "WARE", "length": 5, "bank": ["STONE", "LIGHT", "BEAM", "GLOW"] },
+      { "name": "LEVEL 3: HARD", "left": "SNAP", "answer": "SHOT", "right": "GLASS", "length": 4, "bank": ["SHOT", "DRAGON", "CHAT", "BACK"] }
     ]
   },
-  "Jun 08": {
-    "gameNumber": 2,
+  "game_2": {
+    "gameId": 2,
     "levels": [
-      { "name": "LEVEL 1: EASY", "left": "BASE", "right": "ROOM", "answer": "BALL", "length": 4, "bank": ["BALL", "CAMP", "BOARD", "MENT"] },
-      { "name": "LEVEL 2: MEDIUM", "left": "WATER", "right": "OUT", "answer": "FALL", "length": 4, "bank": ["FALL", "PROOF", "LINE", "SHED"] },
-      { "name": "LEVEL 3: HARD", "left": "SCREEN", "right": "BACK", "answer": "PLAY", "length": 4, "bank": ["PLAY", "TIME", "MATE", "LIST"] }
+      { "name": "LEVEL 1: EASY", "left": "BASE", "answer": "BALL", "right": "ROOM", "length": 4, "bank": ["BALL", "MENT", "CAMP", "RUN"] },
+      { "name": "LEVEL 2: MEDIUM", "left": "WATER", "answer": "FALL", "right": "OUT", "length": 4, "bank": ["FALL", "MELON", "PROOF", "SHED"] },
+      { "name": "LEVEL 3: HARD", "left": "SCREEN", "answer": "PLAY", "right": "BACK", "length": 4, "bank": ["PLAY", "SHOT", "SAVER", "TIME"] }
     ]
   },
-  "Jun 09": {
-    "gameNumber": 3,
+  "game_3": {
+    "gameId": 3,
     "levels": [
-      { "name": "LEVEL 1: EASY", "left": "PART", "right": "TABLE", "answer": "TIME", "length": 4, "bank": ["TIME", "LIFE", "GAME", "ZONE"] },
-      { "name": "LEVEL 2: MEDIUM", "left": "MAIL", "right": "CAR", "answer": "BOX", "length": 3, "bank": ["BOX", "WOOD", "PLAN", "BOOK"] },
-      { "name": "LEVEL 3: HARD", "left": "HEAD", "right": "UP", "answer": "LINE", "length": 4, "bank": ["LINE", "REST", "SIDE", "WARD"] }
+      { "name": "LEVEL 1: EASY", "left": "PART", "answer": "TIME", "right": "TABLE", "length": 4, "bank": ["TIME", "LINE", "CARD", "POST"] },
+      { "name": "LEVEL 2: MEDIUM", "left": "MAIL", "answer": "BOX", "right": "CAR", "length": 3, "bank": ["BOX", "BAG", "TRAIN", "OPEN"] },
+      { "name": "LEVEL 3: HARD", "left": "HEAD", "answer": "LINE", "right": "UP", "length": 4, "bank": ["LINE", "WAY", "STRONG", "OFF"] }
     ]
   },
-  "Jun 10": {
-    "gameNumber": 4,
+  "game_4": {
+    "gameId": 4,
     "levels": [
-      { "name": "LEVEL 1: EASY", "left": "RAIL", "right": "SIDE", "answer": "ROAD", "length": 4, "bank": ["ROAD", "WAY", "MAP", "BED"] },
-      { "name": "LEVEL 2: MEDIUM", "left": "BOOK", "right": "DOWN", "answer": "MARK", "length": 4, "bank": ["MARK", "SHELF", "CASE", "STORE"] },
-      { "name": "LEVEL 3: HARD", "left": "HAND", "right": "SPEARE", "answer": "SHAKE", "length": 5, "bank": ["SHAKE", "DROP", "STAGE", "LASH"] }
+      { "name": "LEVEL 1: EASY", "left": "RAIL", "answer": "ROAD", "right": "SIDE", "length": 4, "bank": ["ROAD", "WAY", "TRACK", "TRAIN"] },
+      { "name": "LEVEL 2: MEDIUM", "left": "BOOK", "answer": "MARK", "right": "DOWN", "length": 4, "bank": ["MARK", "CASE", "SHELF", "LOAD"] },
+      { "name": "LEVEL 3: HARD", "left": "HAND", "answer": "SHAKE", "right": "SPEARE", "length": 5, "bank": ["SHAKE", "MADE", "WRITING", "DOWN"] }
     ]
   },
-  "Jun 11": {
-    "gameNumber": 5,
+  "game_5": {
+    "gameId": 5,
     "levels": [
-      { "name": "LEVEL 1: EASY", "left": "KEY", "right": "WALK", "answer": "BOARD", "length": 5, "bank": ["BOARD", "HOLE", "NOTE", "CHAIN"] },
-      { "name": "LEVEL 2: MEDIUM", "left": "TEA", "right": "HOLE", "answer": "POT", "length": 3, "bank": ["POT", "BAG", "LEAF", "LID"] },
-      { "name": "LEVEL 3: HARD", "left": "EYE", "right": "PARK", "answer": "BALL", "length": 4, "bank": ["BALL", "LASH", "SIGHT", "BROW"] }
+      { "name": "LEVEL 1: EASY", "left": "KEY", "answer": "BOARD", "right": "WALK", "length": 5, "bank": ["BOARD", "NOTE", "CHAIN", "SIDE"] },
+      { "name": "LEVEL 2: MEDIUM", "left": "LIGHT", "answer": "HOUSE", "right": "WORK", "length": 5, "bank": ["HOUSE", "ROOM", "HOLD", "PLANT"] },
+      { "name": "LEVEL 3: HARD", "left": "DRUG", "answer": "STORE", "right": "FRONT", "length": 5, "bank": ["STORE", "LINE", "HOUSE", "KEEPER"] }
+    ]
+  },
+  "game_6": {
+    "gameId": 6,
+    "levels": [
+      { "name": "LEVEL 1: EASY", "left": "WHEEL", "answer": "CHAIR", "right": "MAN", "length": 5, "bank": ["CHAIR", "BARB", "REST", "BACK"] },
+      { "name": "LEVEL 2: MEDIUM", "left": "DAY", "answer": "BREAK", "right": "FAST", "length": 5, "bank": ["BREAK", "LIGHT", "TIME", "DOWN"] },
+      { "name": "LEVEL 3: HARD", "left": "JAW", "answer": "BONE", "right": "YARD", "length": 4, "bank": ["BONE", "BREAKER", "LINE", "LESS"] }
+    ]
+  },
+  "game_7": {
+    "gameId": 7,
+    "levels": [
+      { "name": "LEVEL 1: EASY", "left": "COW", "answer": "BOY", "right": "FRIEND", "length": 3, "bank": ["BOY", "GIRL", "HIDE", "BELL"] },
+      { "name": "LEVEL 2: MEDIUM", "left": "AIR", "answer": "PORT", "right": "LAND", "length": 4, "bank": ["PORT", "LINE", "PLANE", "CRAFT"] },
+      { "name": "LEVEL 3: HARD", "left": "PASS", "answer": "WORD", "right": "SMITH", "length": 4, "bank": ["WORD", "KEY", "BOOK", "PLAY"] }
     ]
   }
 }
