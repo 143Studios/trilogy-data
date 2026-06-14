@@ -54,5 +54,117 @@
       { "name": "LEVEL 2: MEDIUM", "left": "AIR", "answer": "PORT", "right": "LAND", "length": 4, "bank": ["PORT", "LINE", "PLANE", "CRAFT"] },
       { "name": "LEVEL 3: HARD", "left": "PASS", "answer": "WORD", "right": "SMITH", "length": 4, "bank": ["WORD", "KEY", "BOOK", "PLAY"] }
     ]
+  },
+  "game_8": {
+    "gameId": 8,
+    "levels": [
+      { "name": "LEVEL 1: EASY", "left": "CAMP", "answer": "FIRE", "right": "WALL", "length": 4, "bank": ["FIRE", "WOOD", "SITE", "BASE"] },
+      { "name": "LEVEL 2: MEDIUM", "left": "SNOW", "answer": "DRIFT", "right": "WOOD", "length": 5, "bank": ["DRIFT", "BALL", "FLAKE", "MAN"] },
+      { "name": "LEVEL 3: HARD", "left": "BARN", "answer": "STORM", "right": "DOOR", "length": 5, "bank": ["STORM", "YARD", "OWL", "BURN"] }
+    ]
+  },
+  "game_9": {
+    "gameId": 9,
+    "levels": [
+      { "name": "LEVEL 1: EASY", "left": "TEA", "answer": "SPOON", "right": "FEED", "length": 5, "bank": ["SPOON", "BAG", "POT", "LEAF"] },
+      { "name": "LEVEL 2: MEDIUM", "left": "DRAFT", "answer": "BOARD", "right": "ROOM", "length": 5, "bank": ["BOARD", "BEER", "ING", "HORSE"] },
+      { "name": "LEVEL 3: HARD", "left": "FLAG", "answer": "SHIP", "right": "WRECK", "length": 4, "bank": ["SHIP", "POLE", "STAFF", "DAY"] }
+    ]
+  },
+  "game_10": {
+    "gameId": 10,
+    "levels": [
+      { "name": "LEVEL 1: EASY", "left": "RAIN", "answer": "BOW", "right": "TIE", "length": 3, "bank": ["BOW", "COAT", "DROP", "FALL"] },
+      { "name": "LEVEL 2: MEDIUM", "left": "PINE", "answer": "APPLE", "right": "SAUCE", "length": 5, "bank": ["APPLE", "CONE", "NEEDLE", "TREE"] },
+      { "name": "LEVEL 3: HARD", "left": "SALT", "answer": "WATER", "right": "MARK", "length": 5, "bank": ["WATER", "SHAKER", "MINE", "LICK"] }
+    ]
+  },
+  "game_11": {
+    "gameId": 11,
+    "levels": [
+      { "name": "LEVEL 1: EASY", "left": "BED", "answer": "ROOM", "right": "MATE", "length": 4, "bank": ["ROOM", "BUG", "SHEET", "TIME"] },
+      { "name": "LEVEL 2: MEDIUM", "left": "SAND", "answer": "STORM", "right": "CLOUD", "length": 5, "bank": ["STORM", "PAPER", "BAR", "CASTLE"] },
+      { "name": "LEVEL 3: HARD", "left": "FLIP", "answer": "CHART", "right": "HOUSE", "length": 5, "bank": ["CHART", "FLOP", "SIDE", "BOOK"] }
+    ]
+  },
+  "game_12": {
+    "gameId": 12,
+    "levels": [
+      { "name": "LEVEL 1: EASY", "left": "HAIR", "answer": "BRUSH", "right": "WOOD", "length": 5, "bank": ["BRUSH", "CUT", "PIN", "BAND"] },
+      { "name": "LEVEL 2: MEDIUM", "left": "CLOCK", "answer": "WORK", "right": "SHOP", "length": 4, "bank": ["WORK", "WISE", "FACE", "TIME"] },
+      { "name": "LEVEL 3: HARD", "left": "CHIP", "answer": "BOARD", "right": "WALK", "length": 5, "bank": ["BOARD", "SHOT", "MUNK", "DIP"] }
+    ]
+  },
+  "game_13": {
+    "gameId": 13,
+    "levels": [
+      { "name": "LEVEL 1: EASY", "left": "GUM", "answer": "DROP", "right": "ZONE", "length": 4, "bank": ["DROP", "BALL", "SHIELD", "BOOT"] },
+      { "name": "LEVEL 2: MEDIUM", "left": "BEEF", "answer": "STEAK", "right": "HOUSE", "length": 5, "bank": ["STEAK", "JERKY", "STEER", "LOIN"] },
+      { "name": "LEVEL 3: HARD", "left": "PIPE", "answer": "LINE", "right": "DRIVE", "length": 4, "bank": ["LINE", "STEM", "SMOKE", "CLEAN"] }
+    ]
+  },
+  "game_14": {
+    "gameId": 14,
+    "levels": [
+      { "name": "LEVEL 1: EASY", "left": "DROUP", "answer": "DOWN", "right": "TOWN", "length": 4, "bank": ["DOWN", "FALL", "OUT", "LET"] },
+      { "name": "LEVEL 2: MEDIUM", "left": "WALL", "answer": "PAPER", "right": "BACK", "length": 5, "bank": ["PAPER", "FLOWER", "STREET", "BOARD"] },
+      { "name": "LEVEL 3: HARD", "left": "QUICK", "answer": "SAND", "right": "STONE", "length": 4, "bank": ["SAND", "SILVER", "STEP", "DRAW"] }
+    ]
+  },
+  "game_15": {
+    "gameId": 15,
+    "levels": [
+      { "name": "LEVEL 1: EASY", "left": "JELLY", "answer": "BEAN", "right": "STALK", "length": 4, "bank": ["BEAN", "FISH", "ROLL", "SHOT"] },
+      { "name": "LEVEL 2: MEDIUM", "left": "NEWS", "answer": "CAST", "right": "AWAY", "length": 4, "bank": ["CAST", "PAPER", "FLASH", "ROOM"] },
+      { "name": "LEVEL 3: HARD", "left": "IRON", "answer": "BOUND", "right": "ARY", "length": 5, "bank": ["BOUND", "CLAD", "HORSE", "WOOD"] }
+    ]
+  },
+  "game_16": {
+    "gameId": 16,
+    "levels": [
+      { "name": "LEVEL 1: EASY", "left": "LIP", "answer": "STICK", "right": "PIN", "length": 5, "bank": ["STICK", "BALM", "GLOSS", "READ"] },
+      { "name": "LEVEL 2: MEDIUM", "left": "LAND", "answer": "SLIDE", "right": "SHOW", "length": 5, "bank": ["SLIDE", "MARK", "LORD", "FILL"] },
+      { "name": "LEVEL 3: HARD", "left": "FREE", "answer": "HOLD", "right": "BACK", "length": 4, "bank": ["HOLD", "WHEEL", "WAY", "STYLE"] }
+    ]
+  },
+  "game_17": {
+    "gameId": 17,
+    "levels": [
+      { "name": "LEVEL 1: EASY", "left": "DOOR", "answer": "BELL", "right": "BOY", "length": 4, "bank": ["BELL", "WAY", "STEP", "MAT"] },
+      { "name": "LEVEL 2: MEDIUM", "left": "CAPE", "answer": "TOWN", "right": "SHIP", "length": 4, "bank": ["TOWN", "COD", "HORN", "FEAR"] },
+      { "name": "LEVEL 3: HARD", "left": "FOLD", "answer": "AWAY", "right": "SIDE", "length": 4, "bank": ["AWAY", "ER", "ING", "BACK"] }
+    ]
+  },
+  "game_18": {
+    "gameId": 18,
+    "levels": [
+      { "name": "LEVEL 1: EASY", "left": "ICE", "answer": "BERG", "right": "LETTUCE", "length": 4, "bank": ["BERG", "CUBE", "LAND", "MELT"] },
+      { "name": "LEVEL 2: MEDIUM", "left": "CORN", "answer": "STARCH", "right": "LIGHT", "length": 6, "bank": ["STARCH", "BREAD", "COB", "MEAL"] },
+      { "name": "LEVEL 3: HARD", "left": "PEARL", "answer": "HARBOR", "right": "MASTER", "length": 6, "bank": ["HARBOR", "WHITE", "OYSTER", "GATES"] }
+    ]
+  },
+  "game_19": {
+    "gameId": 19,
+    "levels": [
+      { "name": "LEVEL 1: EASY", "left": "CINDERS", "answer": "ELLA", "right": "DER", "length": 4, "bank": ["ELLA", "BLOCK", "CONE", "FALL"] },
+      { "name": "LEVEL 2: MEDIUM", "left": "WOOD", "answer": "CUT", "right": "TER", "length": 3, "bank": ["CUT", "SHED", "LAND", "PECKER"] },
+      { "name": "LEVEL 3: HARD", "left": "MINT", "answer": "AGE", "right": "OLD", "length": 3, "bank": ["AGE", "CONDITION", "JULEP", "LEAF"] }
+    ]
+  },
+  "game_20": {
+    "gameId": 20,
+    "levels": [
+      { "name": "LEVEL 1: EASY", "left": "MELTING", "answer": "POT", "right": "HOLDER", "length": 3, "bank": ["POT", "ICE", "DOWN", "POINT"] },
+      { "name": "LEVEL 2: MEDIUM", "left": "OFFICE", "answer": "CHAIR", "right": "MAN", "length": 5, "bank": ["CHAIR", "SPACE", "BOX", "WORK"] },
+      { "name": "LEVEL 3: HARD", "left": "STAGE", "answer": "COACH", "right": "MAN", "length": 5, "bank": ["COACH", "LIGHT", "HAND", "CRAFT"] }
+    ]
+  },
+  "game_21": {
+    "gameId": 21,
+    "levels": [
+      { "name": "LEVEL 1: EASY", "left": "BACK", "answer": "PACK", "right": "ER", "length": 4, "bank": ["PACK", "BONE", "YARD", "FIRE"] },
+      { "name": "LEVEL 2: MEDIUM", "left": "STAGE", "answer": "FRIGHT", "right": "FUL", "length": 6, "bank": ["FRIGHT", "COACH", "CRAFT", "HAND"] },
+      { "name": "LEVEL 3: HARD", "left": "WELL", "answer": "SPRING", "right": "TIME", "length": 6, "bank": ["SPRING", "DONE", "HEAD", "WATER"] }
+    ]
   }
 }
